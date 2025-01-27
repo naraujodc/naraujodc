@@ -10,7 +10,8 @@
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/naraujodc/) for more details about my work and research experience.
 
 ### 📊 &nbsp;Portfolio:
-![Data Science Portfolio](https://img.shields.io/badge/Data_Science_Portfolio-dec4fc?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fnaraujodc%2FARAUJO_Data_Science_Portfolio)&nbsp;
+<a href="https://github.com/naraujodc/ARAUJO_Data_Science_Portfolio"><img alt="Data Science Portfolio" src="https://img.shields.io/badge/Data_Science_Portfolio-dec4fc?style=for-the-badge"/></a> &nbsp;
+
 
 
 ### 🛠 &nbsp;Tech Stack:
