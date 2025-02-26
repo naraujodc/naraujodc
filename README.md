@@ -6,7 +6,7 @@
 🧠 &nbsp;I'm currently performing research in the fields of developmental neurobiology and computational neuroscience, building algorithms for brain-computer interfaces.\
 🌱 &nbsp;I'm learning more about dynamical models and deep learning.\
 📱 &nbsp;I work with digital marketing on the side; I love graphic design and content creation!\
-👾 &nbsp;In my free time, I work out, dance latin rhythms, and play video games as my hobbies.\
+👾 &nbsp;In my free time, I work out, perform latin dances, and play video games as my hobbies.\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/naraujodc/) for more details about my work and research experience.
 
 ### 📊 &nbsp;Portfolio:
@@ -19,6 +19,7 @@
 ![RStudio](https://img.shields.io/badge/RStudio-1f65cc?style=flat&logo=rstudioide&logoColor=%2375AADB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-ffe873?style=flat&logo=python)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-ececec?style=flat&logo=streamlit)&nbsp;
+![Scikitlearn](https://img.shields.io/badge/scikit_learn-101e27?logo=scikitlearn)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![NLTK](https://img.shields.io/badge/NLTK-339933?logo=python&logoColor=white)&nbsp;
