@@ -29,6 +29,7 @@
 ![SPSS](https://img.shields.io/badge/SPSS-0530ad)&nbsp;
 ![MS Excel](https://img.shields.io/badge/MS_Excel-1D6F42)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-0070BA)&nbsp;
+![MatLab](https://img.shields.io/badge/MatLab-ec5500)&nbsp;
 
 
 ### 📫 &nbsp; How to reach me:
