@@ -23,6 +23,8 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![NLTK](https://img.shields.io/badge/NLTK-339933?logo=python&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-79b6bc)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1e3f5a)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-179ff1)&nbsp;
 ![FIJI](https://img.shields.io/badge/FIJI_ImageJ-101e27?logo=imagej&logoColor=00D8E0)&nbsp;
 ![Prism](https://img.shields.io/badge/GraphPad%20Prism-0070C0)&nbsp;
