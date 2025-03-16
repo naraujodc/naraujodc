@@ -4,15 +4,13 @@
 
 👩🏽‍🎓 &nbsp;I'm a Neuroscience & Behavior and Data Science Honors student at the **University of Notre Dame** (2022-2026).\
 🧠 &nbsp;I'm currently performing research in the fields of developmental neurobiology and computational neuroscience, building algorithms for brain-computer interfaces.\
-🌱 &nbsp;I'm learning more about dynamical models and deep learning.\
+🌱 &nbsp;I'm learning more about linear algebra, dynamical models, and deep learning.\
 📱 &nbsp;I work with digital marketing on the side; I love graphic design and content creation!\
 👾 &nbsp;In my free time, I work out, perform latin dances, and play video games as my hobbies.\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/naraujodc/) for more details about my work and research experience.
 
 ### 📊 &nbsp;Portfolio:
 <a href="https://github.com/naraujodc/ARAUJO_Data_Science_Portfolio"><img alt="Data Science Portfolio" src="https://img.shields.io/badge/Data_Science_Portfolio-dec4fc?style=for-the-badge"/></a> &nbsp;
-
-
 
 ### 🛠 &nbsp;Tech Stack:
 
