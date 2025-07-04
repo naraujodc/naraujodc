@@ -4,7 +4,7 @@
 
 👩🏽‍🎓 &nbsp;I'm a Neuroscience & Behavior and Data Science Honors student at the **University of Notre Dame** (2022-2026).\
 🧠 &nbsp;I'm currently performing research in the fields of computational neuroscience and cognitive psychology, building algorithms for brain-computer interfaces and investigating cognition with eye-tracking.\
-🌱 &nbsp;I'm deepening my knowledge of linear algebra, dynamical models, and deep learning.\
+🌱 &nbsp;I'm deepening my knowledge of advanced statistics, SQL, time series forecasting, and business analytics.\
 📱 &nbsp;I work with digital marketing on the side; I love graphic design and content creation!\
 👾 &nbsp;In my free time, I work out, perform latin dances, and play video games as my hobbies.\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/naraujodc/) for more details about my work and research experience.
@@ -31,6 +31,8 @@
 ![MS Excel](https://img.shields.io/badge/MS_Excel-1D6F42)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-0070BA)&nbsp;
 ![MatLab](https://img.shields.io/badge/MatLab-ec5500)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-%235294E2?logoColor=%23FFFFFF)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=%23FFFFFF)&nbsp;
 
 
 ### 📫 &nbsp; How to reach me:
