@@ -6,6 +6,7 @@
 🧠 &nbsp;I'm currently performing research in the fields of computational neuroscience and cognitive psychology, building algorithms for brain-computer interfaces and investigating cognition with eye-tracking.\
 🌱 &nbsp;I'm deepening my knowledge of advanced statistics, SQL, time series forecasting, and business analytics.\
 🩺 &nbsp;I'm mission-driven and passionate about leveraging my data expertise to create positive change, especially within the healthcare sector.\
+🗣️ &nbsp;I excel at communicating complex data insights and scientific knowledge to diverse audiences.\
 📱 &nbsp;I work with digital marketing on the side; I love marketing analytics, graphic design, and content creation!\
 👾 &nbsp;In my free time, I work out, perform latin dances, and play video games as my hobbies.\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/naraujodc/) for more details about my work and research experience.
