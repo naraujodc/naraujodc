@@ -4,7 +4,7 @@
 
 👩🏽‍🎓 &nbsp;I'm a Neuroscience & Behavior and Data Science Honors student at the **University of Notre Dame** (2022-2026).\
 🧠 &nbsp;I'm currently performing research in the fields of computational neuroscience and cognitive psychology, building algorithms for brain-computer interfaces and investigating cognition with eye-tracking.\
-🌱 &nbsp;I'm deepening my knowledge of advanced statistics, SQL, time series forecasting, and business analytics.\
+🌱 &nbsp;I'm deepening my knowledge of generative AI, LLMs, natural language processing, advanced statistics & probability, and SQL.\
 🩺 &nbsp;I'm mission-driven and passionate about leveraging data to create positive change, especially within the healthcare sector.\
 🗣️ &nbsp;I excel at communicating complex data insights and scientific knowledge to diverse audiences.\
 📱 &nbsp;I work with digital marketing on the side; I love marketing analytics, graphic design, and content creation!\
