@@ -3,8 +3,8 @@
 ### 👩🏽‍💻 &nbsp;About Me:
 
 👩🏽‍🎓 &nbsp;I'm a Neuroscience & Behavior and Data Science Honors student at the **University of Notre Dame** (2022-2026).\
-🧠 &nbsp;I'm currently performing research in the fields of computational neuroscience and cognitive psychology, building algorithms for brain-computer interfaces and investigating cognition with eye-tracking.\
-🌱 &nbsp;I'm deepening my knowledge of generative AI, LLMs, natural language processing, advanced statistics & probability, and SQL.\
+🧠 &nbsp;I'm currently performing research in the field of computational neuroscience, building algorithm to enhance feature extraction in motor imagery brain-computer interfaces.\
+🌱 &nbsp;I'm deepening my knowledge of generative AI, LLMs, natural language processing, webscraping, and GIS.\
 🩺 &nbsp;I'm mission-driven and passionate about leveraging data to create positive change, especially within the healthcare sector.\
 🗣️ &nbsp;I excel at communicating complex data insights and scientific knowledge to diverse audiences.\
 📱 &nbsp;I work with digital marketing on the side; I love marketing analytics, graphic design, and content creation!\
@@ -26,6 +26,11 @@
 ![NLTK](https://img.shields.io/badge/NLTK-339933?logo=python&logoColor=white)&nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-79b6bc)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1e3f5a)&nbsp;
+![crewAI](https://img.shields.io/badge/crewAI-2a7e75?style=flat&logo=crewai)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai)&nbsp;
+![DuckDB](https://img.shields.io/badge/DuckDB-CC6600?style=flat&logo=duckdb)&nbsp;
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-4A73E8?style=flat&logo=huggingface)&nbsp;
+![Docling](https://img.shields.io/badge/Docling-00BFFF?style=flat&logo=markdown)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-179ff1)&nbsp;
 ![FIJI](https://img.shields.io/badge/FIJI_ImageJ-101e27?logo=imagej&logoColor=00D8E0)&nbsp;
 ![Prism](https://img.shields.io/badge/GraphPad%20Prism-0070C0)&nbsp;
